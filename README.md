@@ -25,3 +25,7 @@ All contributions are welcome, little or small! Whether it is your development
 effort, finding new causes, content moderation, contributing to the
 [wiki](https://github.com/bitloaf/give/wiki), or just submitting
 [ideas or issues](https://github.com/bitloaf/give/issues).
+
+Tools
+-----
+The app has been created with Cordova (Phonegap). Any technical discussions can be done [here](https://github.com/bitloaf/give/wiki/Technical-discussion) (or in the issue list).
